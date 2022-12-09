@@ -1,3 +1,4 @@
+// класс для сумки с методами
 class Bag {
     constructor(maxWeight, maxVolume) {
         this.maxWeight = maxWeight;
